@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "Practica3API.Controllers.ComprasController",
+    "Method": "ObtenerCompras",
+    "RelativePath": "api/Compras/ObtenerCompras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica3API.Controllers.ComprasController",
+    "Method": "GetComprasPendientes",
+    "RelativePath": "api/Compras/ObtenerComprasPendientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practica3API.Controllers.ComprasController",
+    "Method": "RegistrarAbono",
+    "RelativePath": "api/Compras/RegistrarAbono",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Practica3API.Models.Abono",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

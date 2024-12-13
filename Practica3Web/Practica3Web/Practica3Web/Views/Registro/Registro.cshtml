@@ -1,0 +1,52 @@
+﻿@model List<Principal>
+
+<h2>Registro</h2>
+<form method="post" action="/Registro/Abonar">
+    <div class="mb-3">
+        <label for="Compra">Compra:</label>
+        <select id="Compra" name="IdCompra" class="form-control">
+            @foreach (var compra in Model)
+            {
+                <option value="@compra.Id_Compra" data-saldo="@compra.Saldo">
+                    @compra.Descripcion
+                </option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="SaldoAnterior">Saldo Anterior:</label>
+        <input type="text" id="SaldoAnterior" readonly class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label for="Abono">Abono:</label>
+        <input type="number" id="Abono" name="Monto" class="form-control" required min="0" />
+        @if (ViewData.ModelState["Monto"]?.Errors.Count > 0)
+        {
+            <span class="text-danger">@ViewData.ModelState["Monto"].Errors[0].ErrorMessage</span>
+        }
+    </div>
+
+    <!-- Campo oculto para pasar la fecha actual -->
+    <input type="hidden" id="Fecha" name="Fecha" />
+
+    <button type="submit" class="btn btn-primary">Abonar</button>
+</form>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+        // Obtener la fecha de hoy en formato YYYY-MM-DD
+        const today = new Date().toISOString().split('T')[0];
+
+        // Establecer la fecha actual en el campo oculto
+        $('#Fecha').val(today);
+
+        // Actualizar el saldo anterior al seleccionar una compra
+        $('#Compra').change(function () {
+            const saldo = $(this).find(':selected').data('saldo');
+            $('#SaldoAnterior').val(saldo);
+        });
+    });
+
+</script>

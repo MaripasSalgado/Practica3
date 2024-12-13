@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\models\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\models\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\views\\registro\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\views\\registro\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\views\\compras\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\views\\compras\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|c:\\users\\marip\\desktop\\prograavanzada\\practica3web\\practica3web\\practica3web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38585150-1618-49BC-8910-1E2E3C331353}|Practica3Web\\Practica3Web.csproj|solutionrelative:practica3web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Practica3Web\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:54:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Practica3Web\\Controllers\\ComprasController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:57:07.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abono.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Models\\Abono.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Models\\Abono.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Models\\Abono.cs",
+              "RelativeToolTip": "Practica3Web\\Models\\Abono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:03:40.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Models\\Principal.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Models\\Principal.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Models\\Principal.cs",
+              "RelativeToolTip": "Practica3Web\\Models\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:03:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Registro\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Practica3Web\\Views\\Registro\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Registro\\Registro.cshtml",
+              "RelativeToolTip": "Practica3Web\\Views\\Registro\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T20:59:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica3Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica3Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T20:56:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Program.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Program.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Program.cs",
+              "RelativeToolTip": "Practica3Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:08:15.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consulta.cshtml",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Compras\\Consulta.cshtml",
+              "RelativeDocumentMoniker": "Practica3Web\\Views\\Compras\\Consulta.cshtml",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Compras\\Consulta.cshtml",
+              "RelativeToolTip": "Practica3Web\\Views\\Compras\\Consulta.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T20:58:18.866Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica3Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\appsettings.json",
+              "RelativeToolTip": "Practica3Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T23:08:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practica3Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practica3Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:03:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica3Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marip\\Desktop\\PrograAvanzada\\Practica3Web\\Practica3Web\\Practica3Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica3Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T22:10:14.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

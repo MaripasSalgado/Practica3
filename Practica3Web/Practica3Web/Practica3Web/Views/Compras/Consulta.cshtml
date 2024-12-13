@@ -1,0 +1,40 @@
+﻿
+
+@model List<Practica3Web.Models.Principal>
+
+@{
+    ViewData["Title"] = "Consulta de Compras";
+}
+
+<h2>Consulta de Abonos</h2>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descripción</th>
+                <th>Precio</th>
+                <th>Saldo</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var principal in Model)
+            {
+                <tr>
+                    <td>@principal.Id_Compra</td>
+                    <td>@principal.Descripcion</td>
+                    <td>@principal.Precio</td>
+                    <td>@principal.Saldo</td>
+                    <td>@principal.Estado</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">No hay abonos registrados.</div>
+}
